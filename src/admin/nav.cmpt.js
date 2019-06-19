@@ -13,7 +13,7 @@ const Navigation = (props) => {
         <div className="navbar-fixed">
             <nav>
                 <div className="nav-wrapper blue lighten-1">
-                    <Link to="/dashboard" className="brand-logo">Logo</Link>
+                    <Link to="/dashboard" className="brand-logo">ODIEZ3</Link>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><Link to="/dashboard/user">Usuario</Link></li>
                         <li><a href="badges.html">Components</a></li>
